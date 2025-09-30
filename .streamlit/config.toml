@@ -1,0 +1,13 @@
+[server]
+port = 5000
+address = "0.0.0.0"
+headless = true
+runOnSave = true
+
+[browser]
+serverAddress = "0.0.0.0"
+gatherUsageStats = false
+serverPort = 5000
+
+[client]
+showErrorDetails = true
